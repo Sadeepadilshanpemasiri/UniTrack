@@ -55,6 +55,7 @@ fun LostAndFoundScreen(navController: NavController) {
                 "Lost & Found Screen\n(UI Coming Soon)",
                 style = MaterialTheme.typography.titleLarge,
                 textAlign = TextAlign.Center
+                //new
             )
         }
     }
